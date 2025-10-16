@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|c:\\users\\tamim\\onedrive\\desktop\\api project\\reactapicurdbackend\\reactapicurdbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|solutionrelative:reactapicurdbackend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|c:\\users\\tamim\\onedrive\\desktop\\api project\\reactapicurdbackend\\reactapicurdbackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|solutionrelative:reactapicurdbackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|c:\\users\\tamim\\onedrive\\desktop\\api project\\reactapicurdbackend\\reactapicurdbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|solutionrelative:reactapicurdbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|c:\\users\\tamim\\onedrive\\desktop\\api project\\reactapicurdbackend\\reactapicurdbackend\\migrations\\20251016164709_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|solutionrelative:reactapicurdbackend\\migrations\\20251016164709_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|c:\\users\\tamim\\onedrive\\desktop\\api project\\reactapicurdbackend\\reactapicurdbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|solutionrelative:reactapicurdbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|c:\\users\\tamim\\onedrive\\desktop\\api project\\reactapicurdbackend\\reactapicurdbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3516DB54-CE82-4EB3-A347-77168BA72404}|ReactAPICURDBackend\\ReactAPICURDBackend.csproj|solutionrelative:reactapicurdbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ReactAPICURDBackend\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ReactAPICURDBackend\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:53:53.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251016164709_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\Migrations\\20251016164709_initial.cs",
+              "RelativeDocumentMoniker": "ReactAPICURDBackend\\Migrations\\20251016164709_initial.cs",
+              "ToolTip": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\Migrations\\20251016164709_initial.cs",
+              "RelativeToolTip": "ReactAPICURDBackend\\Migrations\\20251016164709_initial.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:47:10.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "ReactAPICURDBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\appsettings.json",
+              "RelativeToolTip": "ReactAPICURDBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T16:33:32.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\Program.cs",
+              "RelativeDocumentMoniker": "ReactAPICURDBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\Program.cs",
+              "RelativeToolTip": "ReactAPICURDBackend\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:27:39.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ReactAPICURDBackend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ReactAPICURDBackend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:31:07.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ReactAPICURDBackend\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Tamim\\OneDrive\\Desktop\\API Project\\ReactAPICURDBackend\\ReactAPICURDBackend\\Models\\Student.cs",
+              "RelativeToolTip": "ReactAPICURDBackend\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:20:34.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
