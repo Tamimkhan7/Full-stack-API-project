@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+Debug/
+Release/
+
+# React
+node_modules/
+build/
+dist/
+
+# System files
+.env
+.DS_Store
+Thumbs.db
